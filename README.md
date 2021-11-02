@@ -26,6 +26,6 @@ if id not there 404.not found
 
 6. What is state management?  Redux "connect" is used for statemanagement. It is container.bills, academic degree.
 
-7. Context API? Central Storage
+7. Context API? Central Storage. Inbuilt library in react.
 
 8.  Redux? Actions, reducers, types. Debugging things is easy.
